@@ -1,0 +1,18 @@
+require ("yaml")
+class MYClass
+  attr_accessor :myInt;
+  attr_accessor :myString;
+  attr_accessor :lastName;
+  def initialize(aInt,aString)
+    myInt=aInt;
+    myString=aString;
+  end
+  def display
+    puts("***"<<myInt);
+    puts(myString);
+  end
+end
+myClass=MYClass.new(4,"str");
+myClass.display();
+
+

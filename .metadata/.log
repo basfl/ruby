@@ -1,0 +1,2427 @@
+!SESSION 2016-10-01 15:11:10.611 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\babak\Desktop\Kepler\Ruby\.metadata\.bak_0.log
+Created Time: 2016-10-01 16:50:30.833
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.833
+!MESSAGE NLS unused message: SVNPropertiesPage.user in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.834
+!MESSAGE NLS unused message: SVNPropertiesPage.virtualModule in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.834
+!MESSAGE NLS unused message: SVNPropertyDeleteAction.confirmMultiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.835
+!MESSAGE NLS unused message: SVNPropertyDeleteAction.confirmSingle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.835
+!MESSAGE NLS unused message: SVNPropertyDeleteAction.delete in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.836
+!MESSAGE NLS unused message: SVNPropertyDeleteAction.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.836
+!MESSAGE NLS unused message: SVNPropertyDeleteAction.recurse in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.837
+!MESSAGE NLS unused message: SVNPropertyModifyAction.modify in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.837
+!MESSAGE NLS unused message: SVNRefreshRemoteProjectWizard.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.837
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.author in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.838
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.comment in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.838
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.date in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.839
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.name in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.839
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.revision in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.839
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.lock in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.840
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.lock.owner in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.840
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.lock.token in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.840
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.lock.comment in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.841
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.lock.creation.date in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.841
+!MESSAGE NLS unused message: SVNRemoteFilePropertySource.lock.expiration.date in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.843
+!MESSAGE NLS unused message: SVNRemoteFolderPropertySource.name in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.843
+!MESSAGE NLS unused message: SVNRemoteFolderPropertySource.none in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.844
+!MESSAGE NLS unused message: SVNRemoveResloutionGenerator.Commit_Deletion_to_SVN_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.844
+!MESSAGE NLS unused message: SVNRemoveResloutionGenerator.No_local_history_available._Try_undoing_from_the_server_3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.845
+!MESSAGE NLS unused message: SVNRemoveResloutionGenerator.Undo_Deletion_from_Local_History_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.845
+!MESSAGE NLS unused message: SVNRemoveResloutionGenerator.Undo_Deletion_from_SVN_Server_4 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.845
+!MESSAGE NLS unused message: SVNRemoveResolutionGenerator.Commit_Deletion_to_SVN_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.846
+!MESSAGE NLS unused message: SVNRemoveResolutionGenerator.No_local_history_available._Try_undoing_from_the_server_3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.846
+!MESSAGE NLS unused message: SVNRemoveResolutionGenerator.Undo_Deletion_from_Local_History_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.846
+!MESSAGE NLS unused message: SVNRemoveResolutionGenerator.Undo_Deletion_from_SVN_Server_4 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.847
+!MESSAGE NLS unused message: SVNRepositoryLocationPropertySource.default in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.847
+!MESSAGE NLS unused message: SVNRepositoryLocationPropertySource.host in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.848
+!MESSAGE NLS unused message: SVNRepositoryLocationPropertySource.method in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.848
+!MESSAGE NLS unused message: SVNRepositoryLocationPropertySource.root in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.848
+!MESSAGE NLS unused message: SVNRepositoryLocationPropertySource.user in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.849
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.Confirm_Project_Sharing_Changes_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.849
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.There_are_projects_in_the_workspace_shared_with_this_repository_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.850
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.sharedProject in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.850
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.useCustomLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.850
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.useDefaultProgramName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.851
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.useLocationAsLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.851
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.useProgramName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.851
+!MESSAGE NLS unused message: SVNSyncCompareInput.confirmMergeMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.852
+!MESSAGE NLS unused message: SVNSyncCompareInput.confirmMergeMessageTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.852
+!MESSAGE NLS unused message: SVNSyncCompareInput.filteringOutgoingChanges in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.853
+!MESSAGE NLS unused message: SVNSyncCompareInput.projectDeleted in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.853
+!MESSAGE NLS unused message: SVNSyncSet.conflicts in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.853
+!MESSAGE NLS unused message: SVNSyncSet.incomings in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.854
+!MESSAGE NLS unused message: SVNSyncSet.new in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.854
+!MESSAGE NLS unused message: SVNSyncSet.noConflicts in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.854
+!MESSAGE NLS unused message: SVNSyncSet.noIncomings in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.855
+!MESSAGE NLS unused message: SVNSyncSet.noNew in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.855
+!MESSAGE NLS unused message: SVNSyncSet.noOutgoings in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.855
+!MESSAGE NLS unused message: SVNSyncSet.outgoings in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.856
+!MESSAGE NLS unused message: SVNUIPlugin.refreshMultipleQuestion in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.856
+!MESSAGE NLS unused message: SVNUIPlugin.refreshQuestion in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.856
+!MESSAGE NLS unused message: SVNUIPlugin.refreshTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.857
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.duplicateWorkingSetName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.857
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.invalidWorkingSetName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.858
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.mustSelectFolder in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.858
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.name in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.858
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.projectSelectionPageDescription in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.859
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.projectSelectionPageTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.859
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.refresh in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.859
+!MESSAGE NLS unused message: SVNWorkingSetFolderSelectionPage.treeLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.860
+!MESSAGE NLS unused message: SetSvnPropertyAction.set in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.860
+!MESSAGE NLS unused message: SetSvnPropertyDialog.anotherPropertyHasSameName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.860
+!MESSAGE NLS unused message: SetSvnPropertyDialog.browse in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.861
+!MESSAGE NLS unused message: SetSvnPropertyDialog.enterTextProperty in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.861
+!MESSAGE NLS unused message: SetSvnPropertyDialog.fileDoesNotExist in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.861
+!MESSAGE NLS unused message: SetSvnPropertyDialog.propertyContent in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.862
+!MESSAGE NLS unused message: SetSvnPropertyDialog.propertyName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.863
+!MESSAGE NLS unused message: SetSvnPropertyDialog.setPropertyRecursively in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.864
+!MESSAGE NLS unused message: SetSvnPropertyDialog.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.867
+!MESSAGE NLS unused message: SetSvnPropertyDialog.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.882
+!MESSAGE NLS unused message: SetSvnPropertyDialog.useFile in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.883
+!MESSAGE NLS unused message: SetSvnPropertyDialog.boolean in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.883
+!MESSAGE NLS unused message: SetSvnPropertyDialog.number in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.884
+!MESSAGE NLS unused message: SetSvnPropertyDialog.url in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.884
+!MESSAGE NLS unused message: SetSvnPropertyDialog.recurseRequired in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.884
+!MESSAGE NLS unused message: SharingWizard.initialImport in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.885
+!MESSAGE NLS unused message: SharingWizard.autoConnectOneOTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.885
+!MESSAGE NLS unused message: SharingWizard.autoConnectTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.885
+!MESSAGE NLS unused message: SharingWizard.autoConnectTitleDescription in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.886
+!MESSAGE NLS unused message: SharingWizard.couldNotImport in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.886
+!MESSAGE NLS unused message: SharingWizard.couldNotImportLong in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.886
+!MESSAGE NLS unused message: SharingWizard.description in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.887
+!MESSAGE NLS unused message: SharingWizard.enterInformation in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.887
+!MESSAGE NLS unused message: SharingWizard.svnFolderExists in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.887
+!MESSAGE NLS unused message: SharingWizard.enterInformationDescription in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.888
+!MESSAGE NLS unused message: SharingWizard.enterModuleName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.888
+!MESSAGE NLS unused message: SharingWizard.url in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.888
+!MESSAGE NLS unused message: SharingWizard.browse in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.889
+!MESSAGE NLS unused message: SharingWizard.cannotExist in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.889
+!MESSAGE NLS unused message: SharingWizard.enterModuleNameDescription in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.889
+!MESSAGE NLS unused message: SharingWizard.heading in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.890
+!MESSAGE NLS unused message: SharingWizard.importTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.890
+!MESSAGE NLS unused message: SharingWizard.importTitleDescription in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.890
+!MESSAGE NLS unused message: SharingWizard.readyToFinish in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.891
+!MESSAGE NLS unused message: SharingWizard.readyToFinishDescription in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.891
+!MESSAGE NLS unused message: SharingWizard.selectTag in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.891
+!MESSAGE NLS unused message: SharingWizard.selectTagTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.892
+!MESSAGE NLS unused message: SharingWizard.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.892
+!MESSAGE NLS unused message: SharingWizard.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.892
+!MESSAGE NLS unused message: SharingWizard.1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.893
+!MESSAGE NLS unused message: SharingWizard.validationFailedText in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.893
+!MESSAGE NLS unused message: SharingWizard.validationFailedTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.893
+!MESSAGE NLS unused message: SharingWizardFinishPage.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.894
+!MESSAGE NLS unused message: Sho&w_outgoing_25 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.894
+!MESSAGE NLS unused message: ShowHistoryAction.noHistory in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.894
+!MESSAGE NLS unused message: ShowHistoryAction.noHistoryLong in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.895
+!MESSAGE NLS unused message: ShowHistoryAction.showHistory in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.895
+!MESSAGE NLS unused message: ViewGraphAction.viewGraph in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.895
+!MESSAGE NLS unused message: Show_has_&remote_26 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.896
+!MESSAGE NLS unused message: Standard_15 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.896
+!MESSAGE NLS unused message: SVNAnnotateBlock.lines in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.896
+!MESSAGE NLS unused message: SVNAnnotateBlock.line in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.897
+!MESSAGE NLS unused message: SVNAnnotateBlock.userRevision in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.897
+!MESSAGE NLS unused message: SVNAnnotateView.viewInstructions in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.897
+!MESSAGE NLS unused message: SVNAnnotateView.showFileAnnotation in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.898
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.useRepositoryUrlAsLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.898
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.login in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.899
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.password in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.899
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.repositoryUrl in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.899
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.repositoryRootUrl in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.900
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.browseRootUrl in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.900
+!MESSAGE NLS unused message: SVNRepositoryPropertiesPage.rootUrlWarning in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.900
+!MESSAGE NLS unused message: SVNPropertyPage.path in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.901
+!MESSAGE NLS unused message: SVNPropertyPage.ignored in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.901
+!MESSAGE NLS unused message: SVNPropertyPage.managed in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.902
+!MESSAGE NLS unused message: SVNPropertyPage.switched in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.902
+!MESSAGE NLS unused message: SVNPropertyPage.wcLocked in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.902
+!MESSAGE NLS unused message: SVNPropertyPage.url in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.903
+!MESSAGE NLS unused message: SVNPropertyPage.name in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.903
+!MESSAGE NLS unused message: SVNPropertyPage.repositoryRoot in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.903
+!MESSAGE NLS unused message: SVNPropertyPage.uuid in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.904
+!MESSAGE NLS unused message: SVNPropertyPage.changedRevision in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.904
+!MESSAGE NLS unused message: SVNPropertyPage.changedDate in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.904
+!MESSAGE NLS unused message: SVNPropertyPage.changedAuthor in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.905
+!MESSAGE NLS unused message: SVNPropertyPage.status in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.905
+!MESSAGE NLS unused message: SVNPropertyPage.propStatus in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.905
+!MESSAGE NLS unused message: SVNPropertyPage.merged in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.906
+!MESSAGE NLS unused message: SVNPropertyPage.deleted in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.906
+!MESSAGE NLS unused message: SVNPropertyPage.modified in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.906
+!MESSAGE NLS unused message: SVNPropertyPage.added in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.907
+!MESSAGE NLS unused message: SVNPropertyPage.revision in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.907
+!MESSAGE NLS unused message: SVNPropertyPage.copied in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.907
+!MESSAGE NLS unused message: SVNPropertyPage.copiedFrom in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.908
+!MESSAGE NLS unused message: SVNPropertyPage.movedFrom in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.908
+!MESSAGE NLS unused message: SVNPropertyPage.lockOwner in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.908
+!MESSAGE NLS unused message: SVNPropertyPage.lockCreationDate in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.909
+!MESSAGE NLS unused message: SVNPropertyPage.lockComment in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.909
+!MESSAGE NLS unused message: SVNPropertyPage.treeConflict in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.910
+!MESSAGE NLS unused message: SvnPropertiesView.addPropertyLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.910
+!MESSAGE NLS unused message: SvnPropertiesView.addPropertyTooltip in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.910
+!MESSAGE NLS unused message: SvnPropertiesView.deletePropertyLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.911
+!MESSAGE NLS unused message: SvnPropertiesView.errorAddMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.911
+!MESSAGE NLS unused message: SvnPropertiesView.errorAddTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.911
+!MESSAGE NLS unused message: SvnPropertiesView.modifyPropertyLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.912
+!MESSAGE NLS unused message: SvnPropertiesView.propertyName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.912
+!MESSAGE NLS unused message: SvnPropertiesView.propertyValue in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.912
+!MESSAGE NLS unused message: SvnPropertiesView.refresh in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.913
+!MESSAGE NLS unused message: SvnPropertiesView.refreshLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.913
+!MESSAGE NLS unused message: SvnPropertiesView.titleWithArgument in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.913
+!MESSAGE NLS unused message: SvnPropertiesView.resourceNotManaged in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.914
+!MESSAGE NLS unused message: SvnPropertiesView.somePropertiesModified in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.914
+!MESSAGE NLS unused message: SvnPropertiesView.noPropertiesModified in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.914
+!MESSAGE NLS unused message: SvnPropertiesView.conflictOnProperties in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.915
+!MESSAGE NLS unused message: SvnPropertiesView.errorGettingStatus in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.915
+!MESSAGE NLS unused message: SvnPropertiesView.addKeywordsLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.915
+!MESSAGE NLS unused message: SvnPropertiesView.addKeywordsTooltip in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.916
+!MESSAGE NLS unused message: SvnPropertiesView.errorAddKeywordsTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.916
+!MESSAGE NLS unused message: SvnPropertiesView.errorAddKeywordsMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.916
+!MESSAGE NLS unused message: SvnRevPropertiesView.titleWithTwoArguments in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.917
+!MESSAGE NLS unused message: SvnRevPropertiesView.titleWithOneArgument in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.917
+!MESSAGE NLS unused message: TreeConflictsView.resource in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.917
+!MESSAGE NLS unused message: TreeConflictsView.description in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.918
+!MESSAGE NLS unused message: TreeConflictsView.noResource in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.918
+!MESSAGE NLS unused message: TreeConflictsView.refresh in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.918
+!MESSAGE NLS unused message: TreeConflictsView.refreshView in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.919
+!MESSAGE NLS unused message: TreeConflictsView.openWith in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.919
+!MESSAGE NLS unused message: ResolveTreeConflictAction.text in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.919
+!MESSAGE NLS unused message: SyncAction.override.confirm in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.920
+!MESSAGE NLS unused message: SyncAction.override.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.920
+!MESSAGE NLS unused message: SyncAction.commit in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.920
+!MESSAGE NLS unused message: SyncAction.createPatch in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.921
+!MESSAGE NLS unused message: SyncAction.showOutOfDateFolders in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.921
+!MESSAGE NLS unused message: SyncAction.commit.conflict.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.922
+!MESSAGE NLS unused message: SyncAction.commit.conflict.question in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.922
+!MESSAGE NLS unused message: SyncAction.conflicts in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.922
+!MESSAGE NLS unused message: SyncAction.history in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.923
+!MESSAGE NLS unused message: SyncAction.properties in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.923
+!MESSAGE NLS unused message: SyncAction.resolve in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.923
+!MESSAGE NLS unused message: SyncAction.markMerged in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.924
+!MESSAGE NLS unused message: SyncAction.override in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.924
+!MESSAGE NLS unused message: SyncAction.revert in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.924
+!MESSAGE NLS unused message: SyncAction.sync in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.925
+!MESSAGE NLS unused message: SyncAction.add in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.925
+!MESSAGE NLS unused message: SyncAction.ignore in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.925
+!MESSAGE NLS unused message: SyncAction.update in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.926
+!MESSAGE NLS unused message: SyncAction.updateAll in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.926
+!MESSAGE NLS unused message: SyncAction.updateConfirm in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.926
+!MESSAGE NLS unused message: SyncAction.commitAll in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.927
+!MESSAGE NLS unused message: SyncAction.update.conflict.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.927
+!MESSAGE NLS unused message: SyncAction.update.conflict.question in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.927
+!MESSAGE NLS unused message: SyncAction.expandAll in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.928
+!MESSAGE NLS unused message: SyncAction.expandAllTooltip in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.928
+!MESSAGE NLS unused message: SynchronizeProjectsDialog.allSharedProjects in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.928
+!MESSAGE NLS unused message: SynchronizeProjectsDialog.selectProjects in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.929
+!MESSAGE NLS unused message: SynchronizeProjectsDialog.sharedWorkingSetProjects in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.929
+!MESSAGE NLS unused message: SynchronizeProjectsDialog.syncOutgoingChanges in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.929
+!MESSAGE NLS unused message: SynchronizeProjectsDialog.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.930
+!MESSAGE NLS unused message: SynchronizeView.standardIncomingChangeSetComment in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.930
+!MESSAGE NLS unused message: SynchronizeView.collectingChangeSets in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.930
+!MESSAGE NLS unused message: SynchronizeWizard.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.931
+!MESSAGE NLS unused message: SynchronizeWizard.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.931
+!MESSAGE NLS unused message: TagAction.enterTag in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.932
+!MESSAGE NLS unused message: TagAction.existingVersions in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.932
+!MESSAGE NLS unused message: TagAction.tagAlreadyExists in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.932
+!MESSAGE NLS unused message: TagAction.tagErrorTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.933
+!MESSAGE NLS unused message: TagAction.tagProblemsMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.933
+!MESSAGE NLS unused message: TagAction.tagProblemsMessageMultiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.933
+!MESSAGE NLS unused message: TagAction.tagResources in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.934
+!MESSAGE NLS unused message: TagAction.tagWarningTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.934
+!MESSAGE NLS unused message: TagAction.uncommittedChanges in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.934
+!MESSAGE NLS unused message: TagAction.uncommittedChangesTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.935
+!MESSAGE NLS unused message: TagInRepositoryAction.tagProblemsMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.935
+!MESSAGE NLS unused message: TagInRepositoryAction.tagProblemsMessageMultiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.936
+!MESSAGE NLS unused message: TagSelectionDialog.Select_a_Tag_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.936
+!MESSAGE NLS unused message: TagSelectionDialog.recurseOption in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.936
+!MESSAGE NLS unused message: TagetLocationSelectionDialog.alreadyExists in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.936
+!MESSAGE NLS unused message: TagetLocationSelectionDialog.invalidLocation in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.937
+!MESSAGE NLS unused message: TagetLocationSelectionDialog.locationEmpty in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.937
+!MESSAGE NLS unused message: TargetLocationSelectionDialog.browseLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.937
+!MESSAGE NLS unused message: TargetLocationSelectionDialog.locationLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.938
+!MESSAGE NLS unused message: TargetLocationSelectionDialog.messageForMulti in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.938
+!MESSAGE NLS unused message: TargetLocationSelectionDialog.messageForSingle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.938
+!MESSAGE NLS unused message: TargetLocationSelectionDialog.parentDirectoryLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.939
+!MESSAGE NLS unused message: TargetLocationSelectionDialog.projectNameLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.939
+!MESSAGE NLS unused message: TargetLocationSelectionDialog.useDefaultLabel in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.939
+!MESSAGE NLS unused message: Uneditaction.confirmMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.940
+!MESSAGE NLS unused message: Uneditaction.confirmTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.940
+!MESSAGE NLS unused message: Unmanage.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.940
+!MESSAGE NLS unused message: Unmanage.messageN in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.941
+!MESSAGE NLS unused message: Unmanage.option1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.941
+!MESSAGE NLS unused message: Unmanage.option2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.941
+!MESSAGE NLS unused message: Unmanage.deleteMeta in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.942
+!MESSAGE NLS unused message: Unmanage.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.942
+!MESSAGE NLS unused message: Unmanage.titleN in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.942
+!MESSAGE NLS unused message: Unmanage.unmanage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.943
+!MESSAGE NLS unused message: Unmanage.unmanaging in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.943
+!MESSAGE NLS unused message: Unmanage.unmanagingError in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.943
+!MESSAGE NLS unused message: UpdateAction.updateerror in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.944
+!MESSAGE NLS unused message: UpdateAction.updating in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.944
+!MESSAGE NLS unused message: UpdateMergeActionProblems_merging_remote_resources_into_workspace_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.944
+!MESSAGE NLS unused message: UpdateMergeActionProblems_merging_remote_resources_into_workspace_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.945
+!MESSAGE NLS unused message: UpdateSyncAction.Conflicting_changes_found_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.945
+!MESSAGE NLS unused message: UpdateSyncAction.Only_update_resources_that_can_be_automatically_merged_3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.945
+!MESSAGE NLS unused message: UpdateSyncAction.Overwrite_local_changes__5 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.946
+!MESSAGE NLS unused message: UpdateSyncAction.Update_all_resources,_overwriting_local_changes_with_remote_contents_4 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.946
+!MESSAGE NLS unused message: UpdateSyncAction.You_have_local_changes_you_are_about_to_overwrite._Do_you_wish_to_continue__6 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.946
+!MESSAGE NLS unused message: UpdateSyncAction.You_have_local_changes_you_are_about_to_overwrite_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.947
+!MESSAGE NLS unused message: UpdateSyncAction.errorUpdating in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.947
+!MESSAGE NLS unused message: UpdateWizard.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.947
+!MESSAGE NLS unused message: UpdateWizard.updatePage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.948
+!MESSAGE NLS unused message: UpdateWizardPage.description in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.948
+!MESSAGE NLS unused message: UpdateWizardPage.overwrite in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.949
+!MESSAGE NLS unused message: UserValidationDialog.labelPassword in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.949
+!MESSAGE NLS unused message: UserValidationDialog.labelUser in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.949
+!MESSAGE NLS unused message: UserValidationDialog.password in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.950
+!MESSAGE NLS unused message: UserValidationDialog.required in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.950
+!MESSAGE NLS unused message: UserValidationDialog.user in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.950
+!MESSAGE NLS unused message: Validate_Connection_on_Finish_7 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.951
+!MESSAGE NLS unused message: VersionCategory.Versions_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.951
+!MESSAGE NLS unused message: VersionsElement.versions in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.951
+!MESSAGE NLS unused message: WorkbenchUserAuthenticator.The_operation_was_canceled_by_the_user_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.952
+!MESSAGE NLS unused message: WorkbenchUserAuthenticator.cancelled in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.952
+!MESSAGE NLS unused message: WorkbenchUserAuthenticator.errorFlushing in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.952
+!MESSAGE NLS unused message: WorkbenchUserAuthenticator.errorSaving in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.953
+!MESSAGE NLS unused message: WorkingSetSelectionArea.workingSetOther in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.953
+!MESSAGE NLS unused message: WorkingSetSelectionDialog.detailsButton.label in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.953
+!MESSAGE NLS unused message: WorkingSetSelectionDialog.message.multiSelect in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.954
+!MESSAGE NLS unused message: WorkingSetSelectionDialog.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.954
+!MESSAGE NLS unused message: WorkingSetSelectionDialog.newButton.label in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.954
+!MESSAGE NLS unused message: WorkingSetSelectionDialog.removeButton.label in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.955
+!MESSAGE NLS unused message: WorkingSetSelectionDialog.title.multiSelect in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.955
+!MESSAGE NLS unused message: WorkingSetSelectionDialog.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.955
+!MESSAGE NLS unused message: buildError in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.956
+!MESSAGE NLS unused message: confirmOverwrite in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.956
+!MESSAGE NLS unused message: confirmOverwriteTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.956
+!MESSAGE NLS unused message: currentRevision in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.957
+!MESSAGE NLS unused message: details in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.957
+!MESSAGE NLS unused message: error in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.957
+!MESSAGE NLS unused message: exception in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.958
+!MESSAGE NLS unused message: flag_indicating_that_the_folder_has_a_child_resource_with_outgoing_changes_41 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.958
+!MESSAGE NLS unused message: information in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.959
+!MESSAGE NLS unused message: internal in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.959
+!MESSAGE NLS unused message: keyword_substitution_rule_for_the_resource_44 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.959
+!MESSAGE NLS unused message: localChanges in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.960
+!MESSAGE NLS unused message: moveRemoteFolderWizard.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.960
+!MESSAGE NLS unused message: nameAndRevision in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.960
+!MESSAGE NLS unused message: no in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.961
+!MESSAGE NLS unused message: prompt in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.961
+!MESSAGE NLS unused message: noauthor in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.961
+!MESSAGE NLS unused message: notAvailable in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.962
+!MESSAGE NLS unused message: ok in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.962
+!MESSAGE NLS unused message: question in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.962
+!MESSAGE NLS unused message: repository_home_directory_on_server_39 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.963
+!MESSAGE NLS unused message: root_relative_directory_40 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.963
+!MESSAGE NLS unused message: separator in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.963
+!MESSAGE NLS unused message: simpleInternal in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.964
+!MESSAGE NLS unused message: svn in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.964
+!MESSAGE NLS unused message: the_connection_method_(e.g._pserver,_ssh)_37 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.964
+!MESSAGE NLS unused message: the_repository_location__s_hostname_36 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.965
+!MESSAGE NLS unused message: the_tag_applied_to_the_resource_(version,_branch,_or_date)_35 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.965
+!MESSAGE NLS unused message: the_tag_applied_to_the_resource_43 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.965
+!MESSAGE NLS unused message: user_name_for_the_connection_38 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.966
+!MESSAGE NLS unused message: yes in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.966
+!MESSAGE NLS unused message: LockOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.967
+!MESSAGE NLS unused message: LockOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.967
+!MESSAGE NLS unused message: UnlockOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.967
+!MESSAGE NLS unused message: UnlockOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.968
+!MESSAGE NLS unused message: ExportOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.968
+!MESSAGE NLS unused message: ExportOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.968
+!MESSAGE NLS unused message: ImportOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.969
+!MESSAGE NLS unused message: ImportOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.969
+!MESSAGE NLS unused message: BranchTagOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.969
+!MESSAGE NLS unused message: BranchTagOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.970
+!MESSAGE NLS unused message: BranchTagOperation.3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.970
+!MESSAGE NLS unused message: BuiltInConflictsCompareInput.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.970
+!MESSAGE NLS unused message: BuiltInConflictsCompareInput.1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.971
+!MESSAGE NLS unused message: SwitchOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.971
+!MESSAGE NLS unused message: CheckoutAsProjectOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.971
+!MESSAGE NLS unused message: CommitOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.972
+!MESSAGE NLS unused message: MergeOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.972
+!MESSAGE NLS unused message: SwitchOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.972
+!MESSAGE NLS unused message: CheckoutAsProjectOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.973
+!MESSAGE NLS unused message: SVNProvider.Creating_project_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.973
+!MESSAGE NLS unused message: MergeOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.973
+!MESSAGE NLS unused message: UpdateOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.974
+!MESSAGE NLS unused message: UpdateOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.974
+!MESSAGE NLS unused message: ReplaceOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.974
+!MESSAGE NLS unused message: ReplaceOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.975
+!MESSAGE NLS unused message: UpgradeOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.975
+!MESSAGE NLS unused message: UpgradeOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.975
+!MESSAGE NLS unused message: UpgradeAction.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.976
+!MESSAGE NLS unused message: UpgradeAction.error in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.976
+!MESSAGE NLS unused message: UpgradeAction.confirm.single in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.976
+!MESSAGE NLS unused message: UpgradeAction.confirm.multiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.977
+!MESSAGE NLS unused message: CleanupAction.error in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.977
+!MESSAGE NLS unused message: CleanupOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.977
+!MESSAGE NLS unused message: CleanupOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.977
+!MESSAGE NLS unused message: ResolveAction.error in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.978
+!MESSAGE NLS unused message: ResolveAction.confirmTreeConflicts in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.978
+!MESSAGE NLS unused message: ResolveAction.confirm in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.978
+!MESSAGE NLS unused message: ResolveAction.confirmMultiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.978
+!MESSAGE NLS unused message: ResolveOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.979
+!MESSAGE NLS unused message: ResolveOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.979
+!MESSAGE NLS unused message: ResolveDialog.file in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.979
+!MESSAGE NLS unused message: ResolveDialog.multipleFiles in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.979
+!MESSAGE NLS unused message: ResolveDialog.question in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.979
+!MESSAGE NLS unused message: ResolveDialog.resolved in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.980
+!MESSAGE NLS unused message: ResolveDialog.useMine in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.980
+!MESSAGE NLS unused message: ResolveDialog.useTheirs in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.980
+!MESSAGE NLS unused message: ResolveDialog.useBase in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.980
+!MESSAGE NLS unused message: ResolveDialog.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.981
+!MESSAGE NLS unused message: ResolveDialog.messageMultiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.981
+!MESSAGE NLS unused message: ResolveDialog.propertyConflict in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.981
+!MESSAGE NLS unused message: ResolveDialog.propertyConflictMultiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.981
+!MESSAGE NLS unused message: ResolveDialog.treeConflict in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.982
+!MESSAGE NLS unused message: ResolveDialog.treeConflictMultiple in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.982
+!MESSAGE NLS unused message: ResolveDialog.nonPropertyOnly in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.982
+!MESSAGE NLS unused message: ResolveDialog.nonTreeOnly in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.983
+!MESSAGE NLS unused message: RevertAction.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.983
+!MESSAGE NLS unused message: RevertAction.1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.983
+!MESSAGE NLS unused message: RevertAction.error in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.984
+!MESSAGE NLS unused message: RevertOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.984
+!MESSAGE NLS unused message: RevertOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.984
+!MESSAGE NLS unused message: AnnotateOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.985
+!MESSAGE NLS unused message: AnnotateOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.985
+!MESSAGE NLS unused message: AnnotateOperation_QDAnnotateTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.985
+!MESSAGE NLS unused message: AnnotateOperation_QDAnnotateMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.986
+!MESSAGE NLS unused message: AnnotateOperation_4 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.986
+!MESSAGE NLS unused message: SVNOperation.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.986
+!MESSAGE NLS unused message: SVNOperation.operationCancelled in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.987
+!MESSAGE NLS unused message: SVNConflicts in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.987
+!MESSAGE NLS unused message: SVNHistoryPage.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.987
+!MESSAGE NLS unused message: SVNHistoryPage.11 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.987
+!MESSAGE NLS unused message: SVNHistoryPage.12 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.988
+!MESSAGE NLS unused message: SVNHistoryPage.7 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.988
+!MESSAGE NLS unused message: SVNHistoryPage.8 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.988
+!MESSAGE NLS unused message: AcceptMine.label in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.989
+!MESSAGE NLS unused message: AcceptTheirs.label in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.989
+!MESSAGE NLS unused message: MarkResolved.label in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.989
+!MESSAGE NLS unused message: EditConflicts.Label in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.990
+!MESSAGE NLS unused message: SSHPromptDialog.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.990
+!MESSAGE NLS unused message: SSHPromptDialog.authentication in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.990
+!MESSAGE NLS unused message: SSHPromptDialog.passwordauth in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.991
+!MESSAGE NLS unused message: SSHPromptDialog.keyauth in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.991
+!MESSAGE NLS unused message: SSHPromptDialog.keyfile in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.991
+!MESSAGE NLS unused message: SSHPromptDialog.browse in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.992
+!MESSAGE NLS unused message: SSHPromptDialog.passphrase in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.992
+!MESSAGE NLS unused message: SSHPromptDialog.port in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.992
+!MESSAGE NLS unused message: SSHPromptDialog.save in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.993
+!MESSAGE NLS unused message: SSHPromptDialog.invalidPortTitle in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.993
+!MESSAGE NLS unused message: SSHPromptDialog.invalidPortMessage in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.993
+!MESSAGE NLS unused message: SSLClientCertificate.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.993
+!MESSAGE NLS unused message: SSLClientCertificate.1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.994
+!MESSAGE NLS unused message: SSLClientCertificate.2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.994
+!MESSAGE NLS unused message: SSLClientCertificatesMSCapi.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.994
+!MESSAGE NLS unused message: SSLClientCertificatesMSCapi.1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.995
+!MESSAGE NLS unused message: SSLPromptDialog.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.995
+!MESSAGE NLS unused message: SSLPromptDialog.certificate in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.995
+!MESSAGE NLS unused message: GlobalRefreshSubscriberPage.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.996
+!MESSAGE NLS unused message: RemoteAnnotationStorage.1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.996
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.996
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.997
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.4 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.997
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.5 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.997
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.6 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.998
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.7 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.998
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.8 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.998
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.9 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.999
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.10 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.999
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.11 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:30.999
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.12 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.000
+!MESSAGE NLS unused message: GlobalRefreshResourceSelectionPage.13 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.000
+!MESSAGE NLS unused message: StatisticsPanel.noWorkingSet in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.000
+!MESSAGE NLS unused message: TeamAction.internal in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.001
+!MESSAGE NLS unused message: WorkspacePathValidator.title in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.001
+!MESSAGE NLS unused message: WorkspacePathValidator.eclipsePath in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.002
+!MESSAGE NLS unused message: WorkspacePathValidator.fileSystemPath in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.002
+!MESSAGE NLS unused message: WorkspacePathValidator.instructions in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.002
+!MESSAGE NLS unused message: FetchMembersOperation.taskName in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.003
+!MESSAGE NLS unused message: FetchMembersOperation.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.003
+!MESSAGE NLS unused message: RemoteFolderElement_fetchingRemoteMembers.message in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.003
+!MESSAGE NLS unused message: WorkspaceChangeSetCapability_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.004
+!MESSAGE NLS unused message: WorkspaceChangeSetCapability_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.004
+!MESSAGE NLS unused message: WorkspaceChangeSetCapability_3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.004
+!MESSAGE NLS unused message: WorkspaceChangeSetCapability_7 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.005
+!MESSAGE NLS unused message: WorkspaceChangeSetCapability_8 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.005
+!MESSAGE NLS unused message: OpenChangeSetAction_0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.005
+!MESSAGE NLS unused message: OpenChangeSetAction_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.006
+!MESSAGE NLS unused message: OpenCommitSetAction_20 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.006
+!MESSAGE NLS unused message: OpenCommitSetAction_21 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.006
+!MESSAGE NLS unused message: OpenRemoteFileAction.0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.007
+!MESSAGE NLS unused message: CVSChangeSetCollector_0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.007
+!MESSAGE NLS unused message: CVSChangeSetCollector_4 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.007
+!MESSAGE NLS unused message: WorkspaceSubscriberContext_0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.008
+!MESSAGE NLS unused message: CommitSetDialog_0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.008
+!MESSAGE NLS unused message: CommitSetDialog_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.009
+!MESSAGE NLS unused message: CommitSetDialog_3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.009
+!MESSAGE NLS unused message: CommitCommentArea_0 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.009
+!MESSAGE NLS unused message: CommitCommentArea_1 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.010
+!MESSAGE NLS unused message: CommitCommentArea_2 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.010
+!MESSAGE NLS unused message: CommitCommentArea_3 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.010
+!MESSAGE NLS unused message: CommitCommentArea_4 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.011
+!MESSAGE NLS unused message: CommitCommentArea_5 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.011
+!MESSAGE NLS unused message: CommitCommentArea_6 in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.011
+!MESSAGE NLS unused message: MenuIconsPreferencePage.restart in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.011
+!MESSAGE NLS unused message: MenuIconsPreferencePage.iconSet in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.eclipse.osgi 2 1 2016-10-01 16:50:31.012
+!MESSAGE NLS unused message: MenuIconsPreferencePage.default in: org.tigris.subversion.subclipse.ui.messages
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2016-10-01 16:50:39.126
+!MESSAGE Could not auto-share project Ruby23
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: Provided SVN information does not match that on disk for project 'Ruby23'.
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2016-10-01 16:50:39.127
+!MESSAGE Provided SVN information does not match that on disk for project 'Ruby23'.
+
+!ENTRY org.eclipse.equinox.p2.transport.ecf 2 0 2016-10-01 20:39:14.063
+!MESSAGE Connection to http://dist.springsource.com/release/STS/doc/updates.xml failed on dist.springsource.com. Retry attempt 0 started
+!STACK 0
+java.net.UnknownHostException: dist.springsource.com
+	at java.net.Inet6AddressImpl.lookupAllHostAddr(Native Method)
+	at java.net.InetAddress$2.lookupAllHostAddr(Unknown Source)
+	at java.net.InetAddress.getAddressesFromNameService(Unknown Source)
+	at java.net.InetAddress.getAllByName0(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at java.net.InetAddress.getAllByName(Unknown Source)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.resolveHostname(DefaultClientConnectionOperator.java:242)
+	at org.apache.http.impl.conn.DefaultClientConnectionOperator.openConnection(DefaultClientConnectionOperator.java:130)
+	at org.apache.http.impl.conn.AbstractPoolEntry.open(AbstractPoolEntry.java:150)
+	at org.apache.http.impl.conn.AbstractPooledConnAdapter.open(AbstractPooledConnAdapter.java:121)
+	at org.apache.http.impl.client.DefaultRequestDirector.tryConnect(DefaultRequestDirector.java:575)
+	at org.apache.http.impl.client.DefaultRequestDirector.execute(DefaultRequestDirector.java:425)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:820)
+	at org.apache.http.impl.client.AbstractHttpClient.execute(AbstractHttpClient.java:754)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.performConnect(HttpClientRetrieveFileTransfer.java:1074)
+	at org.eclipse.ecf.provider.filetransfer.httpclient4.HttpClientRetrieveFileTransfer.openStreams(HttpClientRetrieveFileTransfer.java:621)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:879)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.AbstractRetrieveFileTransfer.sendRetrieveRequest(AbstractRetrieveFileTransfer.java:570)
+	at org.eclipse.ecf.provider.filetransfer.retrieve.MultiProtocolRetrieveAdapter.sendRetrieveRequest(MultiProtocolRetrieveAdapter.java:106)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.sendRetrieveRequest(FileReader.java:422)
+	at org.eclipse.equinox.internal.p2.transport.ecf.FileReader.read(FileReader.java:273)
+	at org.eclipse.equinox.internal.p2.transport.ecf.RepositoryTransport.stream(RepositoryTransport.java:172)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.springsource.ide.eclipse.commons.internal.core.net.P2TransportService.stream(P2TransportService.java:139)
+	at org.springsource.ide.eclipse.commons.core.HttpUtil.stream(HttpUtil.java:165)
+	at org.springsource.ide.eclipse.dashboard.internal.ui.editors.AggregateFeedJob$1.run(AggregateFeedJob.java:145)
+	at java.lang.Thread.run(Unknown Source)
+!SESSION 2016-10-02 16:40:33.318 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2016-10-02 16:42:06.342
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2016-10-02 16:42:06.342
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2016-10-02 16:42:06.342
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-10-02 16:42:09.834
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\babak'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.workbench 4 2 2016-10-02 16:42:12.965
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:188)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-02 16:42:13.177
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-02 16:42:13.178
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+
+!ENTRY org.eclipse.ui 4 4 2016-10-02 16:42:13.184
+!MESSAGE Unhandled Exception
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2016-10-02 16:42:13.186
+!MESSAGE Unable to execute early startup code for an extension
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:188)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-02 16:42:13.186
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+
+!ENTRY org.eclipse.jface 2 0 2016-10-02 16:42:18.414
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-10-02 16:42:18.414
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6e111aeb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6e111aeb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@55a5eea3,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-10-02 16:42:18.414
+!MESSAGE A conflict occurred for ALT+SHIFT+T:
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46ab8e4b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@46ab8e4b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@66428512,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-10-02 16:42:30.982
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-10-02 16:42:31.150
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.ui 4 4 2016-10-02 16:42:31.496
+!MESSAGE Could not create action delegate for id: com.android.ide.eclipse.adt.DexDumpAction
+
+!ENTRY org.eclipse.equinox.registry 4 1 2016-10-02 16:42:31.497
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.actions.DexDumpAction".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:274)
+	at org.eclipse.ui.internal.PluginAction.createDelegate(PluginAction.java:122)
+	at org.eclipse.ui.internal.PluginAction.selectionChanged(PluginAction.java:275)
+	at org.eclipse.ui.internal.PluginAction.<init>(PluginAction.java:112)
+	at org.eclipse.ui.internal.ObjectPluginAction.<init>(ObjectPluginAction.java:83)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:272)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:103)
+	at org.eclipse.ui.internal.ObjectActionContributor.createActionDescriptor(ObjectActionContributor.java:201)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ObjectActionContributor.readElement(ObjectActionContributor.java:280)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.ObjectActionContributor.readConfigElement(ObjectActionContributor.java:251)
+	at org.eclipse.ui.internal.ObjectActionContributor.isApplicableTo(ObjectActionContributor.java:217)
+	at org.eclipse.ui.internal.ObjectContributorManager.isApplicableTo(ObjectContributorManager.java:303)
+	at org.eclipse.ui.internal.ObjectActionContributorManager.contributeObjectActions(ObjectActionContributorManager.java:83)
+	at org.eclipse.ui.internal.PopupMenuExtender.addObjectActions(PopupMenuExtender.java:325)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:399)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:343)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:475)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:470)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4964)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4640)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4977)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3753)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 67 more
+!SESSION 2016-10-03 14:53:36.114 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2016-10-03 14:54:46.895
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2016-10-03 14:54:46.895
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2016-10-03 14:54:46.896
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-10-03 14:54:50.285
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\babak'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.workbench 4 2 2016-10-03 14:54:53.202
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:188)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-03 14:54:53.232
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-03 14:54:53.233
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+
+!ENTRY org.eclipse.ui 4 4 2016-10-03 14:54:53.235
+!MESSAGE Unhandled Exception
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2016-10-03 14:54:53.236
+!MESSAGE Unable to execute early startup code for an extension
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:188)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-03 14:54:53.236
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-10-03 14:56:47.322
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-10-03 14:56:47.369
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.ui 4 4 2016-10-03 14:56:47.529
+!MESSAGE Could not create action delegate for id: com.android.ide.eclipse.adt.DexDumpAction
+
+!ENTRY org.eclipse.equinox.registry 4 1 2016-10-03 14:56:47.530
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.actions.DexDumpAction".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:274)
+	at org.eclipse.ui.internal.PluginAction.createDelegate(PluginAction.java:122)
+	at org.eclipse.ui.internal.PluginAction.selectionChanged(PluginAction.java:275)
+	at org.eclipse.ui.internal.PluginAction.<init>(PluginAction.java:112)
+	at org.eclipse.ui.internal.ObjectPluginAction.<init>(ObjectPluginAction.java:83)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:272)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:103)
+	at org.eclipse.ui.internal.ObjectActionContributor.createActionDescriptor(ObjectActionContributor.java:201)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ObjectActionContributor.readElement(ObjectActionContributor.java:280)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.ObjectActionContributor.readConfigElement(ObjectActionContributor.java:251)
+	at org.eclipse.ui.internal.ObjectActionContributor.isApplicableTo(ObjectActionContributor.java:217)
+	at org.eclipse.ui.internal.ObjectContributorManager.isApplicableTo(ObjectContributorManager.java:303)
+	at org.eclipse.ui.internal.ObjectActionContributorManager.contributeObjectActions(ObjectActionContributorManager.java:83)
+	at org.eclipse.ui.internal.PopupMenuExtender.addObjectActions(PopupMenuExtender.java:325)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:399)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:343)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:475)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:470)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4964)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4640)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4977)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3753)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 67 more
+
+!ENTRY org.eclipse.jface 2 0 2016-10-03 14:56:56.463
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-10-03 14:56:56.464
+!MESSAGE A conflict occurred for ALT+SHIFT+T:
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5e2abb58,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@5e2abb58,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@943d0c2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-10-03 14:56:56.464
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@529b8e41,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@529b8e41,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@57f31caf,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SESSION 2016-10-31 13:01:42.187 -----------------------------------------------
+eclipse.buildId=4.3.2.M20140221-1700
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.dltk.launching 2 4 2016-10-31 13:02:50.663
+!MESSAGE Failed to resolve library locations for ruby.exe with C:\Users\babak\AppData\Local\Temp\dltk40624.tmp\scripts\path.rb
+!STACK 0
+java.lang.Exception: Output:
+
+	at org.eclipse.dltk.internal.launching.AbstractInterpreterInstallType$2.run(AbstractInterpreterInstallType.java:719)
+	at org.eclipse.dltk.internal.launching.AbstractInterpreterInstallType.runLibraryLookup(AbstractInterpreterInstallType.java:428)
+	at org.eclipse.dltk.internal.launching.AbstractInterpreterInstallType.getDefaultLibraryLocations(AbstractInterpreterInstallType.java:776)
+	at org.eclipse.dltk.launching.ScriptRuntime.getLibraryLocations(ScriptRuntime.java:988)
+	at org.eclipse.dltk.launching.ScriptRuntime.getLibraryLocations(ScriptRuntime.java:976)
+	at org.eclipse.dltk.internal.launching.InterpreterContainer.computeBuildpathEntries(InterpreterContainer.java:135)
+	at org.eclipse.dltk.internal.launching.InterpreterContainer.getBuildpathEntries(InterpreterContainer.java:118)
+	at org.eclipse.dltk.internal.launching.InterpreterContainer.computeBuildpathEntries(InterpreterContainer.java:221)
+	at org.eclipse.dltk.internal.launching.InterpreterContainer.getBuildpathEntries(InterpreterContainer.java:215)
+	at org.eclipse.dltk.internal.core.ModelManager.containerPutIfInitializingWithSameEntries(ModelManager.java:2233)
+	at org.eclipse.dltk.internal.core.SetContainerOperation.executeOperation(SetContainerOperation.java:52)
+	at org.eclipse.dltk.internal.core.ModelOperation.run(ModelOperation.java:698)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.dltk.internal.core.ModelOperation.runOperation(ModelOperation.java:773)
+	at org.eclipse.dltk.core.DLTKCore.setBuildpathContainer(DLTKCore.java:1942)
+	at org.eclipse.dltk.internal.launching.InterpreterContainerInitializer.initialize(InterpreterContainerInitializer.java:62)
+	at org.eclipse.dltk.internal.core.ModelManager.initializeContainer(ModelManager.java:1976)
+	at org.eclipse.dltk.internal.core.ModelManager$9.run(ModelManager.java:1925)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.dltk.internal.core.ModelManager.initializeAllContainers(ModelManager.java:1934)
+	at org.eclipse.dltk.internal.core.ModelManager.getBuildpathContainer(ModelManager.java:1804)
+	at org.eclipse.dltk.core.DLTKCore.getBuildpathContainer(DLTKCore.java:1779)
+	at org.eclipse.dltk.internal.core.ScriptProject.resolveBuildpath(ScriptProject.java:1020)
+	at org.eclipse.dltk.internal.core.ScriptProject.resolveBuildpath(ScriptProject.java:818)
+	at org.eclipse.dltk.internal.core.ScriptProject.getResolvedBuildpath(ScriptProject.java:294)
+	at org.eclipse.dltk.internal.core.DeltaProcessingState.initializeRoots(DeltaProcessingState.java:317)
+	at org.eclipse.dltk.internal.core.ModelOperation.run(ModelOperation.java:696)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.dltk.internal.core.ModelOperation.runOperation(ModelOperation.java:773)
+	at org.eclipse.dltk.core.DLTKCore.setBuildpathContainer(DLTKCore.java:1942)
+	at org.eclipse.dltk.internal.launching.InterpreterContainerInitializer.initialize(InterpreterContainerInitializer.java:62)
+	at org.eclipse.dltk.internal.core.ModelManager.initializeContainer(ModelManager.java:1976)
+	at org.eclipse.dltk.internal.core.ModelManager.getBuildpathContainer(ModelManager.java:1806)
+	at org.eclipse.dltk.core.DLTKCore.getBuildpathContainer(DLTKCore.java:1779)
+	at org.eclipse.dltk.internal.core.ScriptProject.resolveBuildpath(ScriptProject.java:1020)
+	at org.eclipse.dltk.internal.core.ScriptProject.resolveBuildpath(ScriptProject.java:818)
+	at org.eclipse.dltk.internal.core.ScriptProject.getResolvedBuildpath(ScriptProject.java:294)
+	at org.eclipse.dltk.internal.core.ScriptProject.getAllProjectFragments(ScriptProject.java:2922)
+	at org.eclipse.dltk.internal.core.ScriptProject.getAllProjectFragments(ScriptProject.java:2915)
+	at org.eclipse.dltk.core.search.indexing.core.ProjectRequest.run(ProjectRequest.java:67)
+	at org.eclipse.dltk.core.search.indexing.AbstractJob.execute(AbstractJob.java:76)
+	at org.eclipse.dltk.internal.core.search.processing.JobManager.run(JobManager.java:467)
+	at java.lang.Thread.run(Unknown Source)
+
+!ENTRY org.eclipse.mylyn.tasks.core 4 0 2016-10-31 13:03:12.592
+!MESSAGE Unexpected error while loading repository template extensions
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2016-10-31 13:03:12.592
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+!SUBENTRY 1 org.eclipse.mylyn.tasks.core 4 0 2016-10-31 13:03:12.592
+!MESSAGE Could not load repository template extension contributed by 'org.springsource.ide.eclipse.dashboard.ui' with connectorKind 'jira'
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-10-31 13:03:16.278
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\babak'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui.workbench 4 2 2016-10-31 13:03:17.939
+!MESSAGE Problems occurred when invoking code from plug-in: "org.eclipse.ui.workbench".
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:188)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-31 13:03:17.940
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-31 13:03:17.940
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+
+!ENTRY org.eclipse.ui 4 4 2016-10-31 13:03:17.945
+!MESSAGE Unhandled Exception
+
+!ENTRY com.android.ide.eclipse.adt 4 0 2016-10-31 13:03:17.945
+!MESSAGE Unable to execute early startup code for an extension
+!STACK 1
+org.eclipse.core.runtime.CoreException: Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.throwException(RegistryStrategyOSGI.java:194)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:188)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	... 11 more
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+!SUBENTRY 1 org.eclipse.equinox.registry 4 1 2016-10-31 13:03:17.948
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.welcome.AdtStartup".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin$1.run(WorkbenchPlugin.java:282)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:52)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:278)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.getExecutableExtension(EarlyStartupRunnable.java:117)
+	at org.eclipse.ui.internal.EarlyStartupRunnable.run(EarlyStartupRunnable.java:66)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.Workbench$55.run(Workbench.java:2555)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:53)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 16 more
+
+!ENTRY org.eclipse.jface 2 0 2016-10-31 13:03:26.395
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-10-31 13:03:26.395
+!MESSAGE A conflict occurred for ALT+SHIFT+R:
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75c45c4b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@75c45c4b,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+Binding(ALT+SHIFT+R,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.rename.element,Rename - Refactoring ,
+		Rename the selected element,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7202009e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+!SUBENTRY 1 org.eclipse.jface 2 0 2016-10-31 13:03:26.395
+!MESSAGE A conflict occurred for ALT+SHIFT+T:
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@133d0471,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.scriptEditorScope,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.dltk.ui.edit.text.script.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.dltk.ui.category.refactoring,Refactor - DLTK,DLTK Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@133d0471,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.dltk.ui.context.views,,,system)
+Binding(ALT+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.edit.text.java.refactor.quickMenu,Show Refactor Quick Menu,
+		Shows the refactor quick menu,
+		Category(org.eclipse.jdt.ui.category.refactoring,Refactor - Java,Java Refactoring Actions,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@33cec966,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-10-31 13:03:56.458
+!MESSAGE starting IvyDE plugin
+
+!ENTRY org.apache.ivyde.eclipse 1 0 2016-10-31 13:03:56.527
+!MESSAGE IvyDE plugin started
+
+!ENTRY org.eclipse.ui 4 4 2016-10-31 13:04:18.417
+!MESSAGE Could not create action delegate for id: com.android.ide.eclipse.adt.DexDumpAction
+
+!ENTRY org.eclipse.equinox.registry 4 1 2016-10-31 13:04:18.430
+!MESSAGE Plug-in "com.android.ide.eclipse.adt" was unable to instantiate class "com.android.ide.eclipse.adt.internal.actions.DexDumpAction".
+!STACK 0
+java.lang.NoClassDefFoundError: com/android/sdklib/util/GrabProcessOutput$IProcessOutput
+	at java.lang.Class.getDeclaredConstructors0(Native Method)
+	at java.lang.Class.privateGetDeclaredConstructors(Unknown Source)
+	at java.lang.Class.getConstructor0(Unknown Source)
+	at java.lang.Class.newInstance(Unknown Source)
+	at org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension(RegistryStrategyOSGI.java:184)
+	at org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension(ExtensionRegistry.java:905)
+	at org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension(ConfigurationElement.java:243)
+	at org.eclipse.core.internal.registry.ConfigurationElementHandle.createExecutableExtension(ConfigurationElementHandle.java:55)
+	at org.eclipse.ui.internal.WorkbenchPlugin.createExtension(WorkbenchPlugin.java:274)
+	at org.eclipse.ui.internal.PluginAction.createDelegate(PluginAction.java:122)
+	at org.eclipse.ui.internal.PluginAction.selectionChanged(PluginAction.java:275)
+	at org.eclipse.ui.internal.PluginAction.<init>(PluginAction.java:112)
+	at org.eclipse.ui.internal.ObjectPluginAction.<init>(ObjectPluginAction.java:83)
+	at org.eclipse.ui.internal.ActionDescriptor.createAction(ActionDescriptor.java:272)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:176)
+	at org.eclipse.ui.internal.ActionDescriptor.<init>(ActionDescriptor.java:103)
+	at org.eclipse.ui.internal.ObjectActionContributor.createActionDescriptor(ObjectActionContributor.java:201)
+	at org.eclipse.ui.internal.PluginActionBuilder.readElement(PluginActionBuilder.java:161)
+	at org.eclipse.ui.internal.ObjectActionContributor.readElement(ObjectActionContributor.java:280)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElements(RegistryReader.java:144)
+	at org.eclipse.ui.internal.registry.RegistryReader.readElementChildren(RegistryReader.java:133)
+	at org.eclipse.ui.internal.ObjectActionContributor.readConfigElement(ObjectActionContributor.java:251)
+	at org.eclipse.ui.internal.ObjectActionContributor.isApplicableTo(ObjectActionContributor.java:217)
+	at org.eclipse.ui.internal.ObjectContributorManager.isApplicableTo(ObjectContributorManager.java:303)
+	at org.eclipse.ui.internal.ObjectActionContributorManager.contributeObjectActions(ObjectActionContributorManager.java:83)
+	at org.eclipse.ui.internal.PopupMenuExtender.addObjectActions(PopupMenuExtender.java:325)
+	at org.eclipse.ui.internal.PopupMenuExtender.menuAboutToShow(PopupMenuExtender.java:399)
+	at org.eclipse.jface.action.MenuManager.fireAboutToShow(MenuManager.java:343)
+	at org.eclipse.jface.action.MenuManager.handleAboutToShow(MenuManager.java:475)
+	at org.eclipse.jface.action.MenuManager.access$1(MenuManager.java:470)
+	at org.eclipse.jface.action.MenuManager$2.menuShown(MenuManager.java:500)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:255)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1057)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1081)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1062)
+	at org.eclipse.swt.widgets.Control.WM_INITMENUPOPUP(Control.java:4964)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4640)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1627)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2075)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4977)
+	at org.eclipse.swt.internal.win32.OS.TrackPopupMenu(Native Method)
+	at org.eclipse.swt.widgets.Menu._setVisible(Menu.java:257)
+	at org.eclipse.swt.widgets.Display.runPopups(Display.java:4211)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3753)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$9.run(PartRenderingEngine.java:1113)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:997)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:140)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:611)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:332)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:567)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:150)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:124)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:110)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:79)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:354)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:181)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:636)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1450)
+Caused by: java.lang.ClassNotFoundException: com.android.sdklib.util.GrabProcessOutput$IProcessOutput cannot be found by com.android.ide.eclipse.adt_22.3.0.v201310242005-887826
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClassInternal(BundleLoader.java:501)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:421)
+	at org.eclipse.osgi.internal.loader.BundleLoader.findClass(BundleLoader.java:412)
+	at org.eclipse.osgi.internal.baseadaptor.DefaultClassLoader.loadClass(DefaultClassLoader.java:107)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	... 67 more

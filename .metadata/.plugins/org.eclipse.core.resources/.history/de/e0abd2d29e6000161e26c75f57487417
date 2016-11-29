@@ -1,0 +1,6 @@
+class MyObject
+ def  MyObject.func
+   puts("THis is static method");
+  end
+end
+MyObject.func;

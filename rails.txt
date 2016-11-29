@@ -1,0 +1,5 @@
+rails new appname -d mysql
+
+1-> rails new {appName} -d mysql
+2->rails server {run server}
+3->rails generate controller home index

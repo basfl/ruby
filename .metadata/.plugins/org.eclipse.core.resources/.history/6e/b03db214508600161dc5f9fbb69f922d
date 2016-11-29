@@ -1,0 +1,26 @@
+require ("yaml")
+class MYClass
+  attr_accessor :myInt;
+  attr_accessor :myString;
+  attr_accessor :lastName;
+  def initialize(aInt,aString)
+    @myInt=aInt;
+    @myString=aString;
+  end
+  def display
+    puts(@myInt);
+    puts("***"<<@myString);
+  end
+  def to_yaml_properties
+  ["@myInt", "@myString"] #<= @str will not be saved!
+  end
+end
+myClass=MYClass.new(4,"str");
+myClass.display();
+puts(['1','2'].to_yaml);
+  puts(myClass.to_yaml);
+puts({"a"=>"1","b"=>"2"}.to_yaml);
+arr = ["fred", "bert", "mary"];
+f = File.open( 'friends.yml', 'w' )
+YAML.dump( ["fred", "bert", "mary"], f )
+f.close

@@ -1,0 +1,8 @@
+require ("yaml")
+class MYClass
+  def initialize(aInt,aString)
+    @myInt=aInt;
+    @myString=aString;
+  end
+end
+myClass=MYClass.new(4,"str");
